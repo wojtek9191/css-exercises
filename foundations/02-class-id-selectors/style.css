@@ -1,0 +1,22 @@
+.pinky {
+    background-color: rgb(255, 192, 203);
+}
+
+.fonts {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.size {
+    font-size: 24px;
+}
+
+#id-one {
+    color: #0909d3;
+    font-size: 36px;
+}
+
+#id-two {
+    background-color: #46a546;
+    font-size: 24px;
+    font-weight: bold;
+}
